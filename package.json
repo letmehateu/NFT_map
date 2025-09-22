@@ -24,7 +24,7 @@
     "@radix-ui/react-navigation-menu": "^1.1.4",
     "@react-spring/web": "^9.7.3",
     "net": "^1.0.2",
-    "next": "^14.2.5",
+    "next": "^14.2.32",
     "perfume.js": "9.2.0",
     "permissionless": "^0.1.26",
     "pino-pretty": "^10.3.1",
